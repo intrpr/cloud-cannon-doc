@@ -3,7 +3,7 @@
 
 title: CloudCannon Documentation
 display_title: Documentation
-url: "https://docs.cloudcannon.com"
+url: "http://intrpr.info/cloud-cannon-doc/"
 baseurl:
 google_analytics_key: UA-37472773-1
 show_full_navigation: false
@@ -23,7 +23,7 @@ social:
     - https://plus.google.com/+CloudCannon
     - https://www.youtube.com/c/CloudCannon
 twitter:
-  username: CloudCannon
+  username: 
 
 # -----
 # Build
